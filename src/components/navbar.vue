@@ -1,6 +1,5 @@
 <script setup>
 import iconRh from '@/assets/images/RRHH.png';
-import iconUtp from '@/assets/images/LogoUtp512blanco.png';
 </script>
 
 <template>

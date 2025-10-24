@@ -1,3 +1,3 @@
 <template>
-    <h1>HOme de dashboard</h1>
+    <h1>Bienvenido Dashboard</h1>
 </template>

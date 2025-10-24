@@ -3,8 +3,9 @@ import './style.css';
 import App from './App.vue';
 
 // Bootstrap
-import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '@popperjs/core';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
 // VUE ROUTER
 import { router } from './router'
